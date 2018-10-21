@@ -1,2 +1,0 @@
-# topfans_android
-#topfans
